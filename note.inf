@@ -1,0 +1,12 @@
+[version]
+Signature=$Windows NT$
+
+[DefaultInstall_SingleUser]
+RegisterOCXs=RegisterOCXSection
+
+[RegisterOCXSection]
+C:\Users\phongpt14\Documents\vcs\T1218\003\Dll2.dll
+
+[Strings]
+ServiceName="Yay"
+ShortSvcName="Yay"
