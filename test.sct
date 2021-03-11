@@ -1,0 +1,13 @@
+<?XML version="1.0"?>
+<scriptlet>
+<registration 
+    progid="test" >
+	<script language="VBScript">
+		<![CDATA[
+			Set a = CreateObject("WScript.Shell")
+			a.Run("calc.exe")
+	
+		]]>
+</script>
+</registration>
+</scriptlet>
