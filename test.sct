@@ -5,7 +5,7 @@
 	<script language="VBScript">
 		<![CDATA[
 			Set a = CreateObject("WScript.Shell")
-			a.Run("calc.exe")
+			a.Run("notepad.exe")
 	
 		]]>
 </script>
